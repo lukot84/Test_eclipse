@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNG_POM">
+	<test name="Test POM">
+		<classes>
+			<class name="testNG_pom.TestBase"/>
+			<class name="testNG_pom.MainTest"/>
+		</classes>
+	</test>
+</suite>
